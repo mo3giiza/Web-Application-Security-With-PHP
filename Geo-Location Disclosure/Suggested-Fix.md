@@ -1,3 +1,4 @@
+# Suggested Fix
 
 ***1-download the latest version from ImageMagick***
 
